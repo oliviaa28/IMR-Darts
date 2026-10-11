@@ -2391,7 +2391,7 @@ GameObject:
   - component: {fileID: 1266202348}
   - component: {fileID: 1266202350}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: DartPart2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14179,7 +14179,7 @@ GameObject:
   - component: {fileID: 1360270866}
   - component: {fileID: 1360270868}
   m_Layer: 0
-  m_Name: Capsule (1)
+  m_Name: DartPart3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26786,7 +26786,7 @@ GameObject:
   - component: {fileID: 1546640536}
   - component: {fileID: 1546640535}
   m_Layer: 0
-  m_Name: Wing
+  m_Name: Wing4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27301,7 +27301,7 @@ GameObject:
   - component: {fileID: 1740079996}
   - component: {fileID: 1740079995}
   m_Layer: 0
-  m_Name: Wing
+  m_Name: Wing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27570,7 +27570,7 @@ GameObject:
   - component: {fileID: 1881641757}
   - component: {fileID: 1881641759}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: DartPart1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40177,7 +40177,7 @@ GameObject:
   - component: {fileID: 1882292675}
   - component: {fileID: 1882292674}
   m_Layer: 0
-  m_Name: Wing
+  m_Name: Wing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40278,7 +40278,7 @@ GameObject:
   - component: {fileID: 1899767928}
   - component: {fileID: 1899767927}
   m_Layer: 0
-  m_Name: Wing
+  m_Name: Wing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40369,7 +40369,7 @@ GameObject:
   - component: {fileID: 1960998520}
   - component: {fileID: 1960998522}
   m_Layer: 0
-  m_Name: Capsule (2)
+  m_Name: DartPart4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
