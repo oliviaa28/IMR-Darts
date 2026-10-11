@@ -28,7 +28,7 @@ public class DartFlight : MonoBehaviour
         }
 
         //rotate the point depending on the flying
-      Quaternion rotation = Quaternion.FromToRotation(Vector3.down, rb.linearVelocity);
+      Quaternion rotation = Quaternion.FromToRotation(Vector3.up, rb.linearVelocity);
 
         rb.MoveRotation(rotation);
         
