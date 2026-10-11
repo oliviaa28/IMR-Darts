@@ -33,6 +33,7 @@ public class DartLauncher : MonoBehaviour
     void OnGrabbed(SelectEnterEventArgs args)
     {
         grab.throwOnDetach = true;
+        gameObject.tag = "Dart";
     }
 
     void OnActivated(ActivateEventArgs args)

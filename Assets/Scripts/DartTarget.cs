@@ -21,6 +21,8 @@ public class DartTarget : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Dart"))
         {
+            collision.gameObject.tag = "Untagged";
+
             Rigidbody rbDart = collision.gameObject.GetComponent<Rigidbody>();
             if (rbDart != null && rbDart.isKinematic == true)
             {

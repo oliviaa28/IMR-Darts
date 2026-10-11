@@ -36,13 +36,17 @@ public class DartReset : MonoBehaviour
             return;
         }
 
+        gameObject.tag = "Dart";
 
         transform.SetParent(null);
-        rb.isKinematic = false;
 
         transform.position = startPosition;
         transform.rotation = startRotation;
         rb.linearVelocity = Vector3.zero;
         rb.angularVelocity = Vector3.zero;
+
+        rb.isKinematic = false;
+
+
     }
 }
